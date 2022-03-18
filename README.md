@@ -3,7 +3,7 @@
 ## How to run on local machine
 * mkdir backend
 * cd backend
-* git clone https://github.com/alviandk/metalit_website.git
+* git clone https://github.com/Vputri/E-Wallet_Backend
 * virtualenv -p python3 env
 * source virtmetalite/bin/activate
 * cd api
