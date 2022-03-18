@@ -36,7 +36,7 @@ SECRET_KEY = 'vtw%ik0ayo!9l(t6w1mziv!^e3ci_kl9spy3q$vt9(mj)v^&am'
 DEBUG = True
 
 #ALLOWED_HOSTS = env.list('ALLOWED_HOSTS')
-ALLOWED_HOSTS = ['https://vvallet.herokuapp.com/','localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['vvallet.herokuapp.com','localhost', '127.0.0.1']
 
 # Application definition
 INSTALLED_APPS = [
